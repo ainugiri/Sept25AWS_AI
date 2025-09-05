@@ -119,3 +119,72 @@ input 4 values: 75, 80, 85, 75 : B Grade ->  Group / Classify
 Regression Algorithm: Predicting a continuous value (e.g., price)
 a. Linear Regression
 b. Polynomial Regression 
+
+Deep Learning:
+Special form of Machine Learning
+- Uses neural networks with many layers (deep networks)
+- Capable of learning complex patterns and representations
+- Requires large amounts of data and computational power
+- Applications: Image recognition, natural language processing, speech recognition
+
+
+ML vs DL
+- ML (Machine Learning):
+  - Traditional algorithms (e.g., decision trees, SVM)
+  - Requires feature engineering
+  - Works well with structured data
+- DL (Deep Learning):
+  - Neural networks with many layers
+  - Automatic feature extraction
+  - Works well with unstructured data (e.g., images, text)
+
+
+Generative AI:
+Generate New Content
+
+LLM 
+   DL + NLP
+   NLP : Natural Language Processing
+   NLP: NLU, NLG
+
+   NLP: System is able to understand and generate human language
+   NLU: 
+        System, able to understand human language and perform tasks 
+        Siri, Alexa, Voice Assistats
+         
+         Hey Siri, set an alarm for 7 AM tomorrow.
+
+         1. Tokenization: Breaking down the input into individual words or tokens
+         2. Named Entity Recognition (NER): Identifying and classifying key entities (e.g., time, date, place, city, company name)
+         3. Intent Recognition: Understanding the user's intent (e.g., setting an alarm)
+         4. Lemmatization: Reducing words to their base or root form (e.g., "running" to "run")
+         5. Stemming: Reducing words to their base or root form (e.g., "running" to "run")
+         6. Stopword Removal: Eliminating common words that may not carry significant meaning (e.g., "and," "the," "is")
+         7. Part of Speech Tagging: Identifying the grammatical category of each word (e.g., noun, verb, adjective)
+
+         semantic functions
+         sentiment analysis: Determining the emotional tone behind a series of words
+         intent detection - what user wants
+
+         1. User says: "Set an alarm for 7 AM tomorrow."
+         2. System identifies intent: "Set Alarm"
+         3. Extracts entities: Time (7 AM), Date (Tomorrow)
+
+    NLU: Siri, Alexa, Google Assistant. Perform tasks based on user input text, voice 
+
+    NLG: Generate human-like text responses (e.g., chatbots, virtual assistants)
+    12 months sales raw data -> NLG -> Report based products, sales trends, customer insights, monthwise reports, visualizations. 
+
+    NLG : is created to process raw data and generate human-like text outputs.
+    it can be a report result, visualization, or any other form of text-based information.\
+
+
+LLM - DL & NLP
+   - LLM (Large Language Model)
+   - DL (Deep Learning): to work on large datasets and complex patterns
+   - NLP (Natural Language Processing) : to understand and generate human language with context from DL
+   - Dialog Management: to handle conversations and maintain context over multiple turns
+   Conversational AI
+
+   GPT - LLM
+   ChatGPT is Conversational AI based on LLM.
